@@ -1,4 +1,6 @@
 # Masala
-Masala is true javascript datagrid fetching data from SQL and NoSQL databases.<br>
-See [installation guide](https://github.com/landrisek/Masala/wiki/Installation) in wiki section or [demo](https://github.com/landrisek/masala/tree/master/demo) in source code to make it work.<br>
-Also feel free to browse through **[whole Masala wiki](https://github.com/landrisek/Masala/wiki)** to get better understand how Masala works.<br>
+Welcome to the php-masala wiki!
+
+Php-masala is PHP application logic for SQL and MongoDB datasources and templating system [npm-masala](https://github.com/landrisek/npm-masala). It is running on [nette framework](https://github.com/nette/nette).
+See **[installation guide](https://github.com/landrisek/php-masala/wiki/Installation)** in wiki section to make it work.
+Also feel free to browse through **all pages on right sidebar** to get better understand how package works.<br>
