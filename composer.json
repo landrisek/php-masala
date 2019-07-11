@@ -1,7 +1,7 @@
 {
-	"name": "landrisek/masala",
-	"description": "React datagrid for sql and mongodb.",
-	"keywords": ["grid", "react", "nette"],
+	"name": "landrisek/php-masala",
+	"description": "PHP application logic for SQL and MongoDB datasources and templating system npm-masala.",
+	"keywords": ["sql", "mongoDB", "nette"],
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
