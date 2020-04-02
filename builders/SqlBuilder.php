@@ -273,7 +273,7 @@ class SqlBuilder extends Control implements IBuilderFactory {
         }
         foreach($this->state->Where as $alias => $value) {
             if(isset($this->columns[preg_replace('/(>|<|=|\s)/', '', $alias)])) {
-                $this->where($alias, $value, !empty($value));
+                $this->where($alias, $value, !empty($value) || "0" == $value || 0 == $value);
             }
         }
         if(empty($this->sort)) {
